@@ -4,6 +4,7 @@
 
 Use data recovery mechanism to reconstruct loss variable for gamma glm correction, Estimate delay probability with Binominal GLM. Determine cost of each order by product of 1st and 2nd layer estimates (GLM). Thereby calculate and build Relativities table. 
 
+Test Apache Kafka for dynamic pricing.
 
 💡 Target:
 
